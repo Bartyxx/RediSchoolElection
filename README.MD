@@ -2,7 +2,6 @@
 <h1>School election in Redis</h1>
 <!-- ---------------------------------------------------------------------- -->
 <hr>
-<h3>Description</h3>
 <br/>
 This program simulates the election of various proposal in a school.<br/>
 The program asks for name, surname and student id for login.<br/>
