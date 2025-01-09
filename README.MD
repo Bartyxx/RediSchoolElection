@@ -1,13 +1,19 @@
 <!-- ---------------------------------------------------------------------- -->
-<h1>School election in Redis</h1>
+<h1 align="center">School election in Redis</h1>
 <!-- ---------------------------------------------------------------------- -->
 <hr>
-<p>
+<p align="center" dir="auto">
     This program simulates the election of various proposals in a school.<br />
     The program asks for name, surname, and student ID for login.<br />
     If the login is successful, the student can insert as many proposals as desired.
     Every student can vote once for every proposal.<br />
 </p>
+
+<div align="center">
+    <img src = "https://github.com/Bartyxx/RedisSchoolElection/blob/main/img/logo.png"/>
+</div>
+
+
 <hr>
 <p>After the login, the student can:</p>
 <ul>
